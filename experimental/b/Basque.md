@@ -61,7 +61,6 @@
 - Festa
 - Finkatu
 - Fitxa
-- Lore
 - Fruta
 # G
 - Gai
